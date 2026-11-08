@@ -1,0 +1,9 @@
+{
+  "name": "BenchFree",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Felihens/BenchFree",
+  "description": "Build, remove and repair without the workbench, forge or stonecutter nearby, for stations you already know. Client-side.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351"
+  ]
+}
